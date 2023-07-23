@@ -7,26 +7,42 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items:center;
-    padding: 16px;
+    padding: 10px;
     list-style-type: none;
+    font-size: 40px;
+}
+
+ul img{
+    width: 300px;
+    height: 200px;
 }
 
 header{
-    font-size: 100px;
+    font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
-
-
-}
-
-header img{
-    width: 500px;
-    height: 300px;
+    display: flex;
+    justify-content: center;
 }
 
 footer img{
+    height: 30px;
+}
+
+
+
+table img{
+    width: 50px;
+    height: 70px;
+}
+
+
+
+tbody img{
     width: 30px;
     height: 30px;
 }
+
+
 
 footer{
     display: flex;

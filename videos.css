@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+    color: forestgreen;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 10px;
+    list-style-type: none;
+    font-size: 40px;
+    color:forestgreen;
+}
