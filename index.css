@@ -1,6 +1,9 @@
 body{
     background-color: yellow;
-    color: green;	
+    color:rgb(4, 211, 0);	
+    background-image: url(./img/brazil_shirt-Football_Sports_wallpaper_2560x1600.jpg);
+    
+    
 }
 
 ul {
@@ -28,6 +31,10 @@ footer img{
     height: 30px;
 }
 
+table{
+    background-color: rgba(79, 67, 67, 0.593);
+    color: white;
+}
 
 
 table img{
@@ -47,6 +54,7 @@ tbody img{
 footer{
     display: flex;
     justify-content: center;
+    color: purple;
 }
 
 footer a{
@@ -56,4 +64,5 @@ footer a{
 
 footer p{
     margin: 2px;
+    color: purple;
 }
